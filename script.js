@@ -7,12 +7,12 @@ const submit = document.querySelector('.button')
 const result = document.querySelector('.result');
 
 
-const employeeNames = ['Limber', 'Mckella', 'Rosio', 'Cristian', 'Ryan', 'Rebecca', 'Alissa', 'Hugo', 'Fernando', 'Chris', 'Lourdes', 'Phil'];
+const employeeNames = ["ls","pv","cm","lc","as","hp","ra","bm","am","rm","fc", "ray];
 
 const data = {};
 
 // How Many Employees
-for (let i = 0; i < 10; i++) {
+for (let i = 0; i < 13; i++) {
   const newOption = document.createElement('option');
   newOption.value = i + 1;
   newOption.text = i + 1;
