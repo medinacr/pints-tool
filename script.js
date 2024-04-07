@@ -7,7 +7,7 @@ const submit = document.querySelector('.button')
 const result = document.querySelector('.result');
 
 
-const employeeNames = ["ls","pv","cm","lc","as","hp","ra","bm","am","rm","fc", "ray];
+const employeeNames = ["ls","pv","cm","lc","as","hp","ra","bm","am","rm","fc", "ray"];
 
 const data = {};
 
